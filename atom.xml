@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>天降之物</title>
+  
+  <subtitle> </subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-08-27T18:07:59.645Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>天空遗留之物</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IPMI+IPMICFG管理工具</title>
+    <link href="http://example.com/2023/08/27/ipmi-ipmicfg-guan-li-gong-ju/"/>
+    <id>http://example.com/2023/08/27/ipmi-ipmicfg-guan-li-gong-ju/</id>
+    <published>2023-08-27T18:07:59.645Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="服务器" scheme="http://example.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="IPMI" scheme="http://example.com/tags/IPMI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>300l_pro推算卡驱动固件部署</title>
+    <link href="http://example.com/2023/03/04/hua-wei-tui-suan-qia-300l-pro/"/>
+    <id>http://example.com/2023/03/04/hua-wei-tui-suan-qia-300l-pro/</id>
+    <published>2023-03-04T14:39:37.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;工作需要&lt;/p&gt;
+&lt;h1 id=&quot;参考&quot;&gt;&lt;a href=&quot;#参考&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="服务器" scheme="http://example.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="推算卡" scheme="http://example.com/tags/%E6%8E%A8%E7%AE%97%E5%8D%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kali_Metasploit渗透实验</title>
+    <link href="http://example.com/2023/02/19/metasploit-shi-yan-zhi-zuo-mian-sha-payload-dui-ren-yi-wai-wang-zhu-ji-de-yuan-kong/"/>
+    <id>http://example.com/2023/02/19/metasploit-shi-yan-zhi-zuo-mian-sha-payload-dui-ren-yi-wai-wang-zhu-ji-de-yuan-kong/</id>
+    <published>2023-02-19T01:13:59.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="渗透实验" scheme="http://example.com/categories/%E6%B8%97%E9%80%8F%E5%AE%9E%E9%AA%8C/"/>
+    
+    
+    <category term="kali" scheme="http://example.com/tags/kali/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AList网盘搭建</title>
+    <link href="http://example.com/2023/01/29/actions-zi-dong-bu-shu-hexo-bo-ke-hexoplusplus-hou-tai/"/>
+    <id>http://example.com/2023/01/29/actions-zi-dong-bu-shu-hexo-bo-ke-hexoplusplus-hou-tai/</id>
+    <published>2023-01-29T16:15:37.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="服务器" scheme="http://example.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="AList" scheme="http://example.com/tags/AList/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>stable-diffusion-webui+novelai本地部署</title>
+    <link href="http://example.com/2022/10/20/stable-diffusion-webui-novelai-ben-di-bu-shu/"/>
+    <id>http://example.com/2022/10/20/stable-diffusion-webui-novelai-ben-di-bu-shu/</id>
+    <published>2022-10-20T16:22:37.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;参考&quot;&gt;&lt;a href=&quot;#参考&quot; class=&quot;headerlink&quot; title=&quot;参考&quot;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="AI" scheme="http://example.com/categories/AI/"/>
+    
+    
+    <category term="AI" scheme="http://example.com/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Dos配置IP地址开启DHCP</title>
+    <link href="http://example.com/2022/04/27/dos-pei-zhi-ip-di-zhi-kai-qi-dhcp/"/>
+    <id>http://example.com/2022/04/27/dos-pei-zhi-ip-di-zhi-kai-qi-dhcp/</id>
+    <published>2022-04-27T17:23:37.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近在研究AD域控所以顺便学点Dos命令&lt;/p&gt;
+&lt;h2 id=&quot;打开CMD终端&quot;&gt;&lt;a href=&quot;#打开CMD终端&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="服务器" scheme="http://example.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="Dos" scheme="http://example.com/tags/Dos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>zabbix监控面板部署</title>
+    <link href="http://example.com/2022/03/17/zabbix-yun-wei-mian-ban-bu-shu/"/>
+    <id>http://example.com/2022/03/17/zabbix-yun-wei-mian-ban-bu-shu/</id>
+    <published>2022-03-17T23:46:37.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;看见很多运维佬用起了zabbix，好奇起来我也装个看看，看起来还不错的样子。&lt;/p&gt;
+&lt;h2 id=&quot;准备事项&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="服务器" scheme="http://example.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="zabbix" scheme="http://example.com/tags/zabbix/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux之flv转mp4</title>
+    <link href="http://example.com/2022/03/10/linux-zhi-flv-zhuan-mp4/"/>
+    <id>http://example.com/2022/03/10/linux-zhi-flv-zhuan-mp4/</id>
+    <published>2022-03-10T01:21:07.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;为了让我的录播机能在线播放，所以找了个脚本，这个脚本是群里面一位大佬发出来的，非常感谢这位大佬的脚本。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="服务器" scheme="http://example.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="Linux" scheme="http://example.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一个QQ机器人Mirai</title>
+    <link href="http://example.com/2021/11/21/wo-de-di-yi-ge-qq-ji-qi-ren-mirai/"/>
+    <id>http://example.com/2021/11/21/wo-de-di-yi-ge-qq-ji-qi-ren-mirai/</id>
+    <published>2021-11-21T15:34:37.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;因为目前我所在的录播组的需要，所以弄来试试看，而且我以前就想弄了，这次顺便完成以前的想法。&lt;/p&gt;
+&lt;h2 id=&quot;参考&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="服务器" scheme="http://example.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="Mirai" scheme="http://example.com/tags/Mirai/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kikoeru使用体验</title>
+    <link href="http://example.com/2021/09/11/kikoeru-shi-yong-ti-yan/"/>
+    <id>http://example.com/2021/09/11/kikoeru-shi-yong-ti-yan/</id>
+    <published>2021-09-11T20:46:37.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;前一段看见Kikoeru这个程序，自己搭来试试能不能换了我的音声站。&lt;/p&gt;
+&lt;h2 id=&quot;什么是Kikoeru&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="服务器" scheme="http://example.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="Kikoeru" scheme="http://example.com/tags/Kikoeru/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker基本概念</title>
+    <link href="http://example.com/2021/09/08/docker-ji-ben-gai-nian/"/>
+    <id>http://example.com/2021/09/08/docker-ji-ben-gai-nian/</id>
+    <published>2021-09-08T15:19:37.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;这只是我对Docker的理解，更准确请参考官方说明。&lt;/p&gt;
+&lt;h2 id=&quot;什么是Docker？&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="服务器" scheme="http://example.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="Docker" scheme="http://example.com/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>水星记</title>
+    <link href="http://example.com/2021/08/29/shui-xing-ji/"/>
+    <id>http://example.com/2021/08/29/shui-xing-ji/</id>
+    <published>2021-08-29T15:47:03.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近在网上听到水星记的日语版，顺便查了下这歌所表达的意思，实在太有感触了。&lt;/p&gt;
+&lt;h2 id=&quot;关于水星记&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="怀念" scheme="http://example.com/tags/%E6%80%80%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Actions自动部署Hexo博客</title>
+    <link href="http://example.com/2021/08/26/actions-zi-dong-bu-shu-hexo-bo-ke/"/>
+    <id>http://example.com/2021/08/26/actions-zi-dong-bu-shu-hexo-bo-ke/</id>
+    <published>2021-08-26T19:46:37.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;参考&quot;&gt;&lt;a href=&quot;#参考&quot; class=&quot;headerlink&quot; title=&quot;参考&quot;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="服务器" scheme="http://example.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="Actions" scheme="http://example.com/tags/Actions/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown写作语法</title>
+    <link href="http://example.com/2021/08/22/markdown-xie-zuo-yu-fa/"/>
+    <id>http://example.com/2021/08/22/markdown-xie-zuo-yu-fa/</id>
+    <published>2021-08-22T17:22:22.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;官方具体说明&quot;&gt;&lt;a href=&quot;#官方具体说明&quot; class=&quot;headerlink&quot; title=&quot;官方具体说明&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://markdown.com.cn/&quot;&gt;官方具体说明&lt;/a&gt;&lt;/h2&gt;&lt;h2 id=&quot;标题&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建个人网盘+24小时B站录播姬</title>
+    <link href="http://example.com/2021/08/20/da-jian-ge-ren-wang-pan-24-xiao-shi-lu-bo-ji/"/>
+    <id>http://example.com/2021/08/20/da-jian-ge-ren-wang-pan-24-xiao-shi-lu-bo-ji/</id>
+    <published>2021-08-20T17:01:21.000Z</published>
+    <updated>2023-08-27T18:07:59.645Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;准备事项&quot;&gt;&lt;a href=&quot;#准备事项&quot; class=&quot;headerlink&quot; title=&quot;准备事项&quot;&gt;&lt;/a&gt;准备事项&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;一台Linux服务器          </summary>
+        
+      
+    
+    
+    
+    <category term="服务器" scheme="http://example.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="nextcloud" scheme="http://example.com/tags/nextcloud/"/>
+    
+  </entry>
+  
+</feed>
